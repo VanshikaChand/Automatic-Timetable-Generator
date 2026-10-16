@@ -1,1 +1,1 @@
-# Automatic-Timetable-Generator
+# Smart File Manager
